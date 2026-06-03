@@ -3,7 +3,7 @@
 A machine learning–based web application that classifies online payment transactions as fraudulent or legitimate, trained on real-world transaction data and deployed as an interactive web app.
 
 🚀 **Live Demo**<br>
-👉 Live Application: [online-payment-fraud-detection.app](https://online-payment-fraud-detection-ml.streamlit.app/)<br>
+👉 Live Application: [online-payment-fraud-detection.app](https://online-payment-fraud-detection-f8.streamlit.app/)<br>
 📂 **Source Code**<br>
 👉 GitHub Repository: https://github.com/shilendra-23501a05f8/Online-Payment-Fraud-Detection
 
