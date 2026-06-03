@@ -11,7 +11,7 @@ st.set_page_config(page_title="Fraud Detection", layout="centered")
 st.title("💳 Online Payment Fraud Detection")
 st.link_button(
     "🔗 View Project on GitHub",
-    "https://github.com/jayakrishnatangudu/Online-Payment-Fraud-Detection"
+    "https://github.com/shilendra-23501a05f8/Online-Payment-Fraud-Detection"
 )
 
 st.write("Enter transaction feature values to predict fraud.")
